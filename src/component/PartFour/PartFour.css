@@ -1,0 +1,62 @@
+#bloc4 {
+  background-size: cover;
+  display: flex;
+  height: 600px;
+  width: 1349px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 50px 0px 88px 50;
+  padding: 30px 0 10px 0;
+  justify-content: space-around;
+
+  background-image: url("https://media.discordapp.net/attachments/964128210705068102/984402848517333022/Sans_titre-2.png?width=1025&height=323");
+}
+#blocsec2 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 20px;
+  width: 250px;
+  height: auto;
+}
+#blocsec3 {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 20px;
+  width: 250px;
+  height: auto;
+}
+
+#blocsec2 p,
+img {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+#blocsec2 h3 {
+  font-family: "work sans", arial, sans-serif;
+  font-size: 34px;
+  letter-spacing: -0.3px;
+  text-align: center;
+  color: #00b39b;
+  line-height: 44.2px;
+  font-weight: 300px;
+}
+#blocsec3 p,
+img {
+  font-family: "roboto", arial, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  margin: 22px 90px 22px 90px;
+  max-width: 415px;
+  color: #747474;
+}
+#blocsec3 h3 {
+  font-family: "work sans", arial, sans-serif;
+  font-size: 34px;
+  letter-spacing: -0.3px;
+  text-align: center;
+  color: #00b39b;
+  line-height: 44.2px;
+  font-weight: 300px;
+}

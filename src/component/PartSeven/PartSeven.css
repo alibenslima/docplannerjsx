@@ -1,0 +1,34 @@
+.joinus {
+    height: 101.5px;
+    width: 1015px;
+    display: block;
+    margin: 80px 167px 80px 167px;
+    padding: 0 20px 0 20px;
+    text-align: center;
+  }
+  .joinus h1 {
+    font-family: "work sans";
+    font-size: 30px;
+    letter-spacing: -0.3px;
+    line-height: 39px;
+    font-weight: bold;
+    color: #333333;
+    height: 39px;
+    margin: 23px 0 23px 0;
+  }
+  
+  .seeall {
+    font-family: "roboto";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 0.48px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #3d83df;
+    color: #ffffff;
+    height: 40px;
+    padding: 14px 18px 14px 18px;
+    border: #ffffff solid 0.5px;
+    border-radius: 6%;
+  }

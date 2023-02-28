@@ -1,0 +1,19 @@
+#part1 {
+  margin-top: 70px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+#part1 h4 {
+  font-family: arial;
+}
+
+#part2 {
+  margin-left: 150px;
+  margin-right: 150px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
